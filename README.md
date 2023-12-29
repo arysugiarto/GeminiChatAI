@@ -2,9 +2,11 @@
 
 <br>
 Implementation API Gemini AI 
+<br>
 https://makersuite.google.com/app/apikey
 <br>
 Dependency
+<br>
 https://github.com/google/generative-ai-swift
 <br>
 SwiftUI
@@ -14,5 +16,5 @@ Combine
 
 <br>
 
-<img align="left" src="FoodApp/ss/1.png" width="300" height="600"> 
+<img align="left" src="ss/1.png" width="300" height="600"> 
 
